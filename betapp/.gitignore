@@ -1,0 +1,8 @@
+/node_modules
+/vendor
+/.idea
+.idea/
+.env
+/public/bower_components
+/.vscode
+package-lock.json
